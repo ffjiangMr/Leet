@@ -1,0 +1,16 @@
+E:\Code\LeetCode\UHRS\bin\Debug\UHRS.exe.config
+E:\Code\LeetCode\UHRS\bin\Debug\UHRS.exe
+E:\Code\LeetCode\UHRS\bin\Debug\UHRS.pdb
+E:\Code\LeetCode\UHRS\bin\Debug\Microsoft.Identity.Client.dll
+E:\Code\LeetCode\UHRS\bin\Debug\Microsoft.Search.UHRS.Client.dll
+E:\Code\LeetCode\UHRS\bin\Debug\Microsoft.Search.UHRS.Services.Plugin.Contracts.dll
+E:\Code\LeetCode\UHRS\bin\Debug\Microsoft.Identity.Client.xml
+E:\Code\LeetCode\UHRS\bin\Debug\Microsoft.Search.UHRS.Client.pdb
+E:\Code\LeetCode\UHRS\bin\Debug\Microsoft.Search.UHRS.Client.dll.config
+E:\Code\LeetCode\UHRS\bin\Debug\Microsoft.Search.UHRS.Services.Plugin.Contracts.pdb
+E:\Code\LeetCode\UHRS\obj\Debug\UHRS.csproj.AssemblyReference.cache
+E:\Code\LeetCode\UHRS\obj\Debug\UHRS.csproj.SuggestedBindingRedirects.cache
+E:\Code\LeetCode\UHRS\obj\Debug\UHRS.csproj.CoreCompileInputs.cache
+E:\Code\LeetCode\UHRS\obj\Debug\UHRS.csproj.CopyComplete
+E:\Code\LeetCode\UHRS\obj\Debug\UHRS.exe
+E:\Code\LeetCode\UHRS\obj\Debug\UHRS.pdb

@@ -1,0 +1,33 @@
+﻿  C.cpp
+E:\Code\LeetCode\C\C.cpp(23,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+  LeetCode.cpp
+E:\Code\LeetCode\C\LeetCode.cpp(35,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Code\LeetCode\C\LeetCode.cpp(358,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Code\LeetCode\C\LeetCode.cpp(358,34): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+D:\VisualStudio\IDE\VC\Tools\MSVC\14.30.30705\include\xmemory(674,1): warning C4267: 'initializing': conversion from 'size_t' to '_Objty', possible loss of data
+          with
+          [
+              _Objty=int
+          ]
+D:\VisualStudio\IDE\VC\Tools\MSVC\14.30.30705\include\vector(592): message : see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,unsigned __int64>(_Alloc &,_Objty *const ,unsigned __int64 &&)' being compiled
+          with
+          [
+              _Alloc=std::allocator<int>,
+              _Ty=int,
+              _Objty=int
+          ]
+D:\VisualStudio\IDE\VC\Tools\MSVC\14.30.30705\include\vector(597): message : see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,unsigned __int64>(_Alloc &,_Objty *const ,unsigned __int64 &&)' being compiled
+          with
+          [
+              _Alloc=std::allocator<int>,
+              _Ty=int,
+              _Objty=int
+          ]
+D:\VisualStudio\IDE\VC\Tools\MSVC\14.30.30705\include\vector(610): message : see reference to function template instantiation 'void std::vector<int,std::allocator<int>>::_Emplace_back_with_unused_capacity<_Ty>(_Ty &&)' being compiled
+          with
+          [
+              _Ty=unsigned __int64
+          ]
+E:\Code\LeetCode\C\LeetCode.cpp(95): message : see reference to function template instantiation 'void std::vector<int,std::allocator<int>>::emplace_back<unsigned __int64>(unsigned __int64 &&)' being compiled
+  Generating Code...
+  C.vcxproj -> E:\Code\LeetCode\x64\Debug\C.exe

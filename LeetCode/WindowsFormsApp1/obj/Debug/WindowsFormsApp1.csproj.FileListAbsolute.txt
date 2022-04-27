@@ -1,0 +1,10 @@
+E:\Code\LeetCode\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Code\LeetCode\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Code\LeetCode\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Code\LeetCode\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\Code\LeetCode\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+E:\Code\LeetCode\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Code\LeetCode\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Code\LeetCode\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Code\LeetCode\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Code\LeetCode\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
